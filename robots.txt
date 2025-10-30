@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://protax1040.org/sitemap.xml
